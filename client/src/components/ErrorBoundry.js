@@ -12,7 +12,7 @@ class ErrorBoundry extends Component {
 
   // like try-catch block in JS
   componentDidCatch(error, info) {
-    this.setState({ hasError: true });
+    this.setState({ hasError: true }); // just for test of "Error"
   }
 
   render() {
