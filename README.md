@@ -11,6 +11,8 @@ App_View
 
 RoboFriends Application using "ReactJs" to filter robots to show on UI (Class-Component & Function-Component)
 
+React-Hooks in the branch of "react-hooks" on this repository, just switch the branch if you wanna see
+
 # About Application
 
 Searching on the names of Robots and showing the filtered result (actually robot names from "JsonPlaceHolder" Website)
